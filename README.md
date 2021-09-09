@@ -7,8 +7,8 @@ En el siguiente repositorio encontraremos una variedad de topicos acerca de la m
 La finalidad del mismo es la de: - Acercar al grupo a las herramientas para llevar a cabo el control de versiones sobre los archivos subidos - Diseñar la estructura del repositorio - Implementar la misma para resguardar el trabajo generado durante el cursado de la materia. - Definir lineas base del proyecto
 
 ## Estructura del Repositorio
+![screenshot_5](https://user-images.githubusercontent.com/81245814/132611260-8a170ba2-f8a3-4113-988c-5003105e1a5b.png)
 
-![screenshot_5](https://user-images.githubusercontent.com/81245814/132607251-1de67408-8865-460c-9d4e-6e32c71e5250.png)
 
 ## Nomenclatura general
 

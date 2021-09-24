@@ -7,23 +7,23 @@ En el siguiente repositorio encontraremos una variedad de topicos acerca de la m
 La finalidad del mismo es la de: - Acercar al grupo a las herramientas para llevar a cabo el control de versiones sobre los archivos subidos - Diseñar la estructura del repositorio - Implementar la misma para resguardar el trabajo generado durante el cursado de la materia. - Definir lineas base del proyecto
 
 ## Estructura del Repositorio
-![screenshot_5](https://user-images.githubusercontent.com/81245814/132611260-8a170ba2-f8a3-4113-988c-5003105e1a5b.png)
+![estructuraRepositorio](https://raw.githubusercontent.com/fedecara/ISW-4k3-G5/main/ImagesReadme/estructuraRepositorio.png)
 
 
 ## Nomenclatura general
 
-![screenshot_2](https://user-images.githubusercontent.com/81245814/132607153-7dde145a-af1c-4248-962b-3fe6a3fa03ea.png)
+![nomenclaturaCamelCase](https://raw.githubusercontent.com/fedecara/ISW-4k3-G5/main/ImagesReadme/nomenclaturaCamelCase.png)
 
 
 ## Items de configuracion
 
-![screenshot_3](https://user-images.githubusercontent.com/81245814/132610282-4dee7f35-c308-4bbd-bdc5-1868af56d12b.png)
+![itemConfiguracion](https://raw.githubusercontent.com/fedecara/ISW-4k3-G5/main/ImagesReadme/itemsConfiguracion.png)
 
 
 
 ## Glosario
 
-![screenshot_4](https://user-images.githubusercontent.com/81245814/132607168-74c0d41d-6799-4a8f-a60d-bec02f989da0.png)
+![glosario](https://user-images.githubusercontent.com/81245814/132607168-74c0d41d-6799-4a8f-a60d-bec02f989da0.png)
 
 
 ## Linea Base
